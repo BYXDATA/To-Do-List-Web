@@ -48,5 +48,8 @@ The **To-Do List** web application is designed to help users efficiently manage 
 ## Conclusion:
 This web app provides an intuitive and efficient platform for task management. With a simple and clean design, users can easily manage their tasks, improve productivity, and stay organized.
 
-## License:
-This project is licensed under the MIT License.
+## Credits
+This file was created by:
+- [Joud Ahmad Al-huthaly](https://github.com/BYXDATA)
+- [Nehal Hamed Al-zahrani](https://github.com/nehal3589)
+
