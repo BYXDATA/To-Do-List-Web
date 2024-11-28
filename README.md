@@ -49,8 +49,6 @@ The **To-Do List** web application is designed to help users efficiently manage 
 ## Conclusion:
 This web app provides an intuitive and efficient platform for task management. With a simple and clean design, users can easily manage their tasks, improve productivity, and stay organized.
 
-## Live Website:
-You can visit the live version of the To-Do List web application [here](https://nehal3589.github.io/To-Do-list/).
 
 ## Credits
 This file was created by:
